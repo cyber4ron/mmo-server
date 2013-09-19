@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="GBK"?>
+<plan>
+  <entities>
+    <entity>
+      <num>1</num>
+      <name>smog1</name>
+      <id>400:1</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <position>-2936, 0, 1850</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>2</num>
+      <name>opA</name>
+      <id>100</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <num>3</num>
+      <name>text1</name>
+      <id>text1</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <position>-1830, 0, 400</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>4</num>
+      <name>monitor</name>
+      <id>110</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-1978, 0, 368</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>5</num>
+      <name>opB</name>
+      <id>101</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-1978, 0, 322</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>6</num>
+      <name>opC</name>
+      <id>102</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-1830, 0, 287</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>7</num>
+      <name>inopA</name>
+      <id>112</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <num>8</num>
+      <name>text2</name>
+      <id>text2</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>9</num>
+      <name>text3</name>
+      <id>text3</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>10</num>
+      <name>text4</name>
+      <id>text4</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>11</num>
+      <name>text5</name>
+      <id>text5</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <position>-1670, 0, 218</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0.3, 0.3, 0.3</scale>
+      <num>12</num>
+      <name>vicemonitor</name>
+      <id>111</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-2050, 11, 360</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0.3, 0.3, 0.3</scale>
+      <num>13</num>
+      <name>opD</name>
+      <id>103</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-2040, 0, 360</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>14</num>
+      <name>opE</name>
+      <id>104</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-2070, 0, 360</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>15</num>
+      <name>opF</name>
+      <id>105</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-2080, 0, 360</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>16</num>
+      <name>opG</name>
+      <id>106</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-2090, 0, 360</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>17</num>
+      <name>opH</name>
+      <id>107</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-2100, 0, 360</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>18</num>
+      <name>opI</name>
+      <id>108</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-2110, 0, 360</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>19</num>
+      <name>opJ</name>
+      <id>109</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <num>20</num>
+      <name>text6</name>
+      <id>text6</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>21</num>
+      <name>penlinfa1</name>
+      <id>200:1</id>
+	  <unitangle>360</unitangle>
+	  <valvestate>1</valvestate>
+      <type>device</type>
+      <classname>valve</classname>
+    </entity>
+    <entity>
+      <num>22</num>
+      <name>penlinfa2</name>
+      <id>200:2</id>
+	  <unitangle>360</unitangle>
+	  <valvestate>1</valvestate>
+      <type>device</type>
+      <classname>valve</classname>
+    </entity>
+    <entity>
+      <num>23</num>
+      <name>yushuifa1</name>
+      <id>200:3</id>
+	  <unitangle>360</unitangle>
+	  <valvestate>1</valvestate>
+      <type>device</type>
+      <classname>valve</classname>
+    </entity>
+    <entity>
+      <num>24</num>
+      <name>wushuifa1</name>
+      <id>200:4</id>
+	  <unitangle>360</unitangle>
+	  <valvestate>1</valvestate>
+      <type>device</type>
+      <classname>valve</classname>
+    </entity>
+    <entity>
+      <num>25</num>
+      <name>jinchuliaofa1</name>
+      <id>200:5</id>
+	  <unitangle>360</unitangle>
+	  <valvestate>1</valvestate>
+      <type>device</type>
+      <classname>valve</classname>
+    </entity>
+    <entity>
+      <num>26</num>
+      <name>text7</name>
+      <id>text7</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <position>-1670, 0, 200</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>27</num>
+      <name>chejianleader</name>
+      <id>113</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <num>28</num>
+      <name>text8</name>
+      <id>text8</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>29</num>
+      <name>fire1</name>
+      <id>400:2</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <num>30</num>
+      <name>text9</name>
+      <id>text9</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>31</num>
+      <name>text10</name>
+      <id>text10</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <position>-144, 0, 54</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>32</num>
+      <name>huagongbuleader</name>
+      <id>114</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <num>33</num>
+      <name>text12</name>
+      <id>text11</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>34</num>
+      <name>text12</name>
+      <id>text12</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>35</num>
+      <name>text13</name>
+      <id>text13</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>36</num>
+      <name>text14</name>
+      <id>text14</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>37</num>
+      <name>text15</name>
+      <id>text15</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <num>38</num>
+      <name>text16</name>
+      <id>text16</id>
+      <type>textEntity</type>
+      <classname>text</classname>
+    </entity>
+    <entity>
+      <position>-1900, 0, 600</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>39</num>
+      <name>fangtingyw1</name>
+      <id>115</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-1860, 0, 600</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>40</num>
+      <name>fangtingyw2</name>
+      <id>116</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-1820, 0, 600</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>41</num>
+      <name>gongchengyw1</name>
+      <id>117</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-1780, 0, 600</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>42</num>
+      <name>gongchengyw2</name>
+      <id>118</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-1230, 0, 450</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>43</num>
+      <name>ptayw1</name>
+      <id>119</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-1200, 0, 450</position>
+      <rotation>0, 0, 0</rotation>
+      <scale>0, 0, 0</scale>
+      <num>44</num>
+      <name>ptayw2</name>
+      <id>120</id>
+      <type>role</type>
+      <classname>role_operator</classname>
+    </entity>
+    <entity>
+      <position>-72, 0, 211</position>
+      <num>45</num>
+      <name>fireengine1</name>
+      <id>500:1</id>
+      <type>commonEntity</type>
+      <classname>commonEntity</classname>
+    </entity>
+    <entity>
+      <position>-72, 0, 337</position>
+      <num>46</num>
+      <name>fireengine2</name>
+      <id>500:2</id>
+      <type>commonEntity</type>
+      <classname>commonEntity</classname>
+    </entity>
+    <entity>
+      <position>-72, 0, 450</position>
+      <num>47</num>
+      <name>ambulance1</name>
+      <id>500:3</id>
+      <type>commonEntity</type>
+      <classname>commonEntity</classname>
+    </entity>
+    <entity>
+      <position>-2147, -50, 1700</position>
+      <num>48</num>
+      <name>daqi1</name>
+      <id>700:1</id>
+      <type>commonEntity</type>
+      <classname>commonEntity</classname>
+    </entity>
+    <entity>
+      <position>-1993, -30, 1748</position>
+      <num>49</num>
+      <name>jingjiexian1</name>
+      <id>800:1</id>
+      <type>commonEntity</type>
+      <classname>commonEntity</classname>
+    </entity>
+    <entity>
+      <num>50</num>
+      <name>water1</name>
+      <id>410:1</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <num>51</num>
+      <name>water2</name>
+      <id>410:2</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <num>52</num>
+      <name>water3</name>
+      <id>410:3</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <num>53</num>
+      <name>water4</name>
+      <id>410:4</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <num>54</num>
+      <name>water5</name>
+      <id>410:5</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <num>55</num>
+      <name>water6</name>
+      <id>410:6</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <num>56</num>
+      <name>water7</name>
+      <id>410:7</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <num>57</num>
+      <name>water8</name>
+      <id>410:8</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <num>58</num>
+      <name>circlewater1</name>
+      <id>420:1</id>
+      <type>disaster</type>
+      <classname>dist_fire</classname>
+    </entity>
+    <entity>
+      <position>-1787, 48, 135</position>
+      <num>59</num>
+      <name>baojingyi1</name>
+      <id>600:1</id>
+      <type>commonEntity</type>
+      <classname>commonEntity</classname>
+    </entity>
+    <entity>
+      <num>60</num>
+      <name>waterface1</name>
+      <id>900:1</id>
+      <type>disaster</type>
+      <classname>water</classname>
+    </entity>
+	<entity>
+      <num>61</num>
+      <name>music1</name>
+      <id>555</id>
+      <type>musicEntity</type>
+      <classname>music</classname>
+    </entity>
+  </entities>
+  <states>
+    <state num="0" func="smog1" branch="br0_1">smog1_state1</state>
+    <state num="1" func="opA" branch="br0_1">opA_state1</state>
+    <state num="2" func="opA" branch="br0_1">opA_state2</state>
+    <state num="3" func="opA" branch="br0_1">opA_state3</state>
+	<state num="4" func="text1" branch="br0_1">text1_state1</state>
+    <state num="5" func="monitor" branch="br0_1">monitor_state1</state>
+    <state num="6" func="opB" branch="br0_1">opB_state1</state>
+    <state num="7" func="opC" branch="br0_1">opC_state1</state>
+    <state num="8" func="monitor" branch="br0_1">monitor_state2</state>
+    <state num="9" func="opB" branch="br0_1">opB_state2</state>
+    <state num="10" func="inopA" branch="br0_1">inopA_state1</state>
+    <state num="11" func="vicemonitor" branch="br0_1">vicemonitor_state1</state>
+    <state num="12" func="opD" branch="br0_1">opD_state1</state>
+    <state num="13" func="opE" branch="br0_1">opE_state1</state>
+    <state num="14" func="opF" branch="br0_1">opF_state1</state>
+    <state num="15" func="opG" branch="br0_1">opG_state1</state>
+    <state num="16" func="opH" branch="br0_1">opH_state1</state>
+    <state num="17" func="opI" branch="br0_1">opI_state1</state>
+    <state num="18" func="opJ" branch="br0_1">opJ_state1</state>
+    <state num="19" func="vicemonitor" branch="br0_1">vicemonitor_state2</state>
+    <state num="20" func="opD" branch="br0_1">opD_state2</state>
+    <state num="21" func="opE" branch="br0_1">opE_state2</state>
+    <state num="22" func="opF" branch="br0_1">opF_state2</state>
+    <state num="23" func="opG" branch="br0_1">opG_state2</state>
+    <state num="24" func="opH" branch="br0_1">opH_state2</state>
+    <state num="25" func="opI" branch="br0_1">opI_state2</state>
+    <state num="26" func="opJ" branch="br0_1">opJ_state2</state>
+    <state num="27" func="opJ" branch="br0_1">opJ_state3</state>
+    <state num="28" func="opD" branch="br0_1">opD_state3</state>
+    <state num="29" func="opE" branch="br0_1">opE_state3</state>
+    <state num="30" func="opH" branch="br0_1">opH_state3</state>
+    <state num="31" func="opI" branch="br0_1">opI_state3</state>
+    <state num="32" func="opF" branch="br0_1">opF_state3</state>
+    <state num="33" func="opG" branch="br0_1">opG_state3</state>
+    <state num="34" func="chejianleader" branch="br0_1">chejianleader_state1</state>
+    <state num="35" func="vicemonitor" branch="br0_1">vicemonitor_state3</state>
+    <state num="36" func="chejianleader" branch="br0_1">chejianleader_state2</state>
+    <state num="37" func="huagongbuleader" branch="br0_1">huagongbuleader_state1</state>
+    <state num="38" func="vicemonitor" branch="br0_1">vicemonitor_state4</state>
+    <state num="39" func="chejianleader" branch="br0_1">chejianleader_state3</state>
+    <state num="40" func="huagongbuleader" branch="br0_1">huagongbuleader_state2</state>
+    <state num="41" func="fangtingyw1" branch="br0_1">fangtingyw1_state1</state>
+    <state num="42" func="fangtingyw2" branch="br0_1">fangtingyw2_state1</state>
+    <state num="43" func="gongchengyw1" branch="br0_1">gongchengyw1_state1</state>
+    <state num="44" func="gongchengyw2" branch="br0_1">gongchengyw2_state1</state>
+    <state num="45" func="ptayw1" branch="br0_1">ptayw1_state1</state>
+    <state num="46" func="ptayw2" branch="br0_1">ptayw2_state1</state>
+    <state num="47" func="fireengine1" branch="br0_1">fireengine1_state1</state>
+    <state num="48" func="fireengine2" branch="br0_1">fireengine2_state1</state>
+    <state num="49" func="ambulance1" branch="br0_1">ambulance1_state1</state>
+    <state num="50" func="opH" branch="br0_1">opH_state4</state>
+    <state num="51" func="vicemonitor" branch="br0_1">vicemonitor_state5</state>
+    <state num="52" func="opA" branch="br0_1">opA_state4</state>
+    <state num="53" func="opC" branch="br0_1">opC_state2</state>
+    <state num="54" func="opC" branch="br0_1">opC_state3</state>
+    <state num="55" func="opB" branch="br0_1">opB_state3</state>
+    <state num="56" func="ambulance1" branch="br0_1">ambulance1_state2</state>
+    <state num="57" func="huagongbuleader" branch="br0_1">huagongbuleader_state3</state>	
+	<state num="58" func="opG" branch="br0_1_1">opG_state4</state>
+	<state num="59" func="opG" branch="br0_1_2">opG_state5</state>
+  </states>
+  <transitions>
+    <transition backward="0" forward="1" />
+    <transition backward="1" forward="2" />
+    <transition backward="2" forward="3" />
+    <transition backward="3" forward="4" />
+    <transition backward="4" forward="5" />
+    <transition backward="5" forward="6" />
+    <transition backward="5" forward="7" />
+    <transition backward="6" forward="8" />
+    <transition backward="8" forward="9" />
+    <transition backward="8" forward="10" />
+    <transition backward="8" forward="11" />
+    <transition backward="11" forward="12" />
+    <transition backward="11" forward="13" />
+    <transition backward="11" forward="14" />
+    <transition backward="11" forward="15" />
+    <transition backward="11" forward="16" />
+    <transition backward="11" forward="17" />
+    <transition backward="11" forward="18" />
+    <transition backward="12" forward="19" />
+    <transition backward="13" forward="19" />
+    <transition backward="14" forward="19" />
+    <transition backward="15" forward="19" />
+    <transition backward="16" forward="19" />
+    <transition backward="17" forward="19" />
+    <transition backward="18" forward="19" />
+    <transition backward="12" forward="20" />
+    <transition backward="13" forward="21" />
+    <transition backward="14" forward="22" />
+    <transition backward="15" forward="23" />
+    <transition backward="16" forward="24" />
+    <transition backward="17" forward="25" />
+    <transition backward="18" forward="26" />
+    <transition backward="19" forward="27" />
+    <transition backward="19" forward="28" />
+    <transition backward="19" forward="29" />
+    <transition backward="19" forward="32" />
+    <transition backward="19" forward="30" />
+    <transition backward="19" forward="31" />
+    <transition backward="19" forward="33" />
+    <transition backward="19" forward="34" />
+    <transition backward="34" forward="35" />
+    <transition backward="35" forward="36" />
+    <transition backward="36" forward="37" />
+    <transition backward="37" forward="38" />
+    <transition backward="37" forward="39" />
+    <transition backward="38" forward="40" />
+    <transition backward="39" forward="40" />
+    <transition backward="36" forward="46" />
+    <transition backward="36" forward="45" />
+    <transition backward="36" forward="44" />
+    <transition backward="36" forward="43" />
+    <transition backward="36" forward="42" />
+    <transition backward="36" forward="41" />
+    <transition backward="37" forward="47" />
+    <transition backward="37" forward="48" />
+    <transition backward="37" forward="49" />
+    <transition backward="30" forward="50" />
+    <transition backward="31" forward="50" />
+    <transition backward="38" forward="51" />
+    <transition backward="49" forward="52" />
+    <transition backward="49" forward="54" />
+    <transition backward="49" forward="55" />
+    <transition backward="52" forward="56" />
+    <transition backward="47" forward="57" />
+    <transition backward="48" forward="57" />
+	<transition backward="33" forward="58" />
+	<transition backward="33" forward="59" />
+  </transitions>
+  <expressions>
+	<expression num="0" type="no_op" fact="a">expr1</expression>
+	<expression num="1" type="no_op" fact="b">expr2</expression>			
+  </expressions>
+  <extransitions>
+	<extransition type="bro-bro" backward="0" forward="1" />
+  </extransitions>
+  <exstates>
+	<exstate type="ex-state" backward="0" forward="58" />
+	<exstate type="ex-state" backward="1" forward="59" />
+  </exstates>  
+</plan>

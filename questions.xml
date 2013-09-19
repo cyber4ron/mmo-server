@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question>
+    <id>13071114532990</id>
+    <category>操作类</category>
+    <role>操作工</role>
+    <difficulty>简单</difficulty>
+    <score>1</score>
+    <picPath></picPath>
+    <entryTime>1373554409</entryTime>
+    <body>题目</body>
+    <option>fa</option>
+    <option>f</option>
+    <option answer="true">fds</option>
+    <option>fds</option>
+  </question>
+  <question>
+    <id>13071114594870</id>
+    <category>操作类</category>
+    <role>操作工</role>
+    <difficulty>简单</difficulty>
+    <score>2</score>
+    <picPath></picPath>
+    <entryTime>1373554789</entryTime>
+    <body>dfs</body>
+    <option>fsd</option>
+    <option>fds</option>
+    <option>fdsg</option>
+    <option answer="true">gfd</option>
+  </question>
+  <question>
+    <id>13071123055764</id>
+    <category>操作类</category>
+    <role>操作工</role>
+    <difficulty>简单</difficulty>
+    <score>2</score>
+    <picPath>13071123055764_0.jpg;</picPath>
+    <entryTime>1373583958</entryTime>
+    <body>dfsfsd</body>
+    <option>fds</option>
+    <option>gdf</option>
+    <option answer="true">gdf</option>
+    <option>gdf</option>
+  </question>
+</questions>

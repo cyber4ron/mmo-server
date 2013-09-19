@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\entity">
+      <UniqueIdentifier>{ee810c8f-b8ff-4ad0-973e-ce857fa5a38d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\script">
+      <UniqueIdentifier>{460190bd-7ccb-4949-a12a-ba4ea6246896}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\entity">
+      <UniqueIdentifier>{b5d59d8e-72db-4169-834a-00c3f8b91eca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\script">
+      <UniqueIdentifier>{ae27da41-7c32-4378-b3bd-8d3b479eb713}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\connection">
+      <UniqueIdentifier>{4d0980fc-53c9-4d12-a510-db7b839f3a9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\connection">
+      <UniqueIdentifier>{50efba19-9350-46f7-91f2-efdf9e1b1a00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\message">
+      <UniqueIdentifier>{2a7bc59f-93af-416c-afe6-bb9ce13fa97d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\timer">
+      <UniqueIdentifier>{f7ecfeb3-68cb-4310-a0b4-d2623fe6bd7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\timer">
+      <UniqueIdentifier>{57810f3f-4598-409e-85fe-c418c3de7042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\simulation">
+      <UniqueIdentifier>{20cec39c-f539-4c8c-8a89-644cda035dcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\simulation">
+      <UniqueIdentifier>{f19a9da2-90a8-4a51-b12d-81d16c2e6bdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\inference_engine">
+      <UniqueIdentifier>{d153b720-adf6-45dc-8481-ab50baea2c86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\entity\device">
+      <UniqueIdentifier>{5158cbf1-8d80-41c2-a693-b1ab98a87e66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\entity\disaster">
+      <UniqueIdentifier>{eac898d8-00c9-4182-a2e0-17f2f1efe68e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\entity\roles">
+      <UniqueIdentifier>{7f2830e7-1899-433f-a433-82a7de78d5c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\evaluation">
+      <UniqueIdentifier>{fb6e26d1-688a-4cd8-802d-400f6cb61ddf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\evaluation">
+      <UniqueIdentifier>{f0466195-512f-48c3-bb6f-c74e26763cf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\task_queue_worker">
+      <UniqueIdentifier>{b5837c81-030a-47f8-a0bd-45af7a9d2899}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\task_queue_worker">
+      <UniqueIdentifier>{f18425bc-9d39-4dcf-91ca-a87bbf75db76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\entity\textEntity">
+      <UniqueIdentifier>{cd770f6c-4b69-40a1-b8ad-5b4da68f9d9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\log">
+      <UniqueIdentifier>{c793b3e6-c9d8-4d86-b174-a26d23eb06c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\log">
+      <UniqueIdentifier>{b591357e-6a74-49aa-9ae6-6dbf26953258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\inference_engine">
+      <UniqueIdentifier>{4fde2fcb-74f1-4dcc-94af-e7f6f14a76f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\entity\musicEntity">
+      <UniqueIdentifier>{aea0710f-130a-466e-9f0b-48b216fec427}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\message">
+      <UniqueIdentifier>{f2572e5d-dcc8-46b6-a2d6-966b0710fe88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\utils">
+      <UniqueIdentifier>{4ccd64eb-13b3-465c-920f-27b1e2c871f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\utils">
+      <UniqueIdentifier>{7f36fbe2-e95b-4e2b-a2ed-076db86b045b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\load_content">
+      <UniqueIdentifier>{da99b35b-b1ac-4c49-9f2b-af3de7cb7985}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\load_content">
+      <UniqueIdentifier>{e108f1aa-2a10-49be-a9ee-0b4096ad90cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="server1_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="message_forwarder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="connection_base.cpp">
+      <Filter>Source Files\connection</Filter>
+    </ClCompile>
+    <ClCompile Include="connection_server.cpp">
+      <Filter>Source Files\connection</Filter>
+    </ClCompile>
+    <ClCompile Include="entity.cpp">
+      <Filter>Source Files\entity</Filter>
+    </ClCompile>
+    <ClCompile Include="entity_manager.cpp">
+      <Filter>Source Files\entity</Filter>
+    </ClCompile>
+    <ClCompile Include="process_controller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="script.cpp">
+      <Filter>Source Files\script</Filter>
+    </ClCompile>
+    <ClCompile Include="script_manager.cpp">
+      <Filter>Source Files\script</Filter>
+    </ClCompile>
+    <ClCompile Include="role.cpp">
+      <Filter>Source Files\entity\roles</Filter>
+    </ClCompile>
+    <ClCompile Include="role_operator.cpp">
+      <Filter>Source Files\entity\roles</Filter>
+    </ClCompile>
+    <ClCompile Include="simu_move.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="inference_engine.cpp">
+      <Filter>Source Files\inference_engine</Filter>
+    </ClCompile>
+    <ClCompile Include="state.cpp">
+      <Filter>Source Files\inference_engine</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>Source Files\entity\device</Filter>
+    </ClCompile>
+    <ClCompile Include="device.cpp">
+      <Filter>Source Files\entity\device</Filter>
+    </ClCompile>
+    <ClCompile Include="valve.cpp">
+      <Filter>Source Files\entity\device</Filter>
+    </ClCompile>
+    <ClCompile Include="commonEntity.cpp">
+      <Filter>Source Files\entity\device</Filter>
+    </ClCompile>
+    <ClCompile Include="disaster.cpp">
+      <Filter>Source Files\entity\disaster</Filter>
+    </ClCompile>
+    <ClCompile Include="fire.cpp">
+      <Filter>Source Files\entity\disaster</Filter>
+    </ClCompile>
+    <ClCompile Include="simu_fire.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="textEntity.cpp">
+      <Filter>Source Files\entity\textEntity</Filter>
+    </ClCompile>
+    <ClCompile Include="simulator.cpp">
+      <Filter>Source Files\simulation</Filter>
+    </ClCompile>
+    <ClCompile Include="criteria.cpp">
+      <Filter>Source Files\evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="task_queue.cpp">
+      <Filter>Source Files\task_queue_worker</Filter>
+    </ClCompile>
+    <ClCompile Include="worker.cpp">
+      <Filter>Source Files\task_queue_worker</Filter>
+    </ClCompile>
+    <ClCompile Include="timer_scheduler.cpp">
+      <Filter>Source Files\timer</Filter>
+    </ClCompile>
+    <ClCompile Include="configuration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="entity_factory.cpp">
+      <Filter>Source Files\entity</Filter>
+    </ClCompile>
+    <ClCompile Include="entity_facade.cpp">
+      <Filter>Source Files\entity</Filter>
+    </ClCompile>
+    <ClCompile Include="msg_dispatcher.cpp">
+      <Filter>Source Files\entity</Filter>
+    </ClCompile>
+    <ClCompile Include="log.cpp">
+      <Filter>Source Files\log</Filter>
+    </ClCompile>
+    <ClCompile Include="expression.cpp">
+      <Filter>Source Files\inference_engine</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="musicEntity.cpp">
+      <Filter>Source Files\entity\musicEntity</Filter>
+    </ClCompile>
+    <ClCompile Include="message.cpp">
+      <Filter>Source Files\message</Filter>
+    </ClCompile>
+    <ClCompile Include="internal_message.cpp">
+      <Filter>Source Files\message</Filter>
+    </ClCompile>
+    <ClCompile Include="entity_interface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="operation.cpp">
+      <Filter>Source Files\evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="question.cpp">
+      <Filter>Source Files\evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="eval_manager.cpp">
+      <Filter>Source Files\evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="utility.cpp">
+      <Filter>Source Files\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="database_util.cpp">
+      <Filter>Source Files\load_content</Filter>
+    </ClCompile>
+    <ClCompile Include="datafile_util.cpp">
+      <Filter>Source Files\load_content</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="entity.h">
+      <Filter>Header Files\entity</Filter>
+    </ClInclude>
+    <ClInclude Include="entity_manager.h">
+      <Filter>Header Files\entity</Filter>
+    </ClInclude>
+    <ClInclude Include="connection_base.h">
+      <Filter>Header Files\connection</Filter>
+    </ClInclude>
+    <ClInclude Include="connection_server.h">
+      <Filter>Header Files\connection</Filter>
+    </ClInclude>
+    <ClInclude Include="message.h">
+      <Filter>Header Files\message</Filter>
+    </ClInclude>
+    <ClInclude Include="message_forwarder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="internal_message.h">
+      <Filter>Header Files\message</Filter>
+    </ClInclude>
+    <ClInclude Include="process_controller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="script_manager.h">
+      <Filter>Header Files\script</Filter>
+    </ClInclude>
+    <ClInclude Include="script.h">
+      <Filter>Header Files\script</Filter>
+    </ClInclude>
+    <ClInclude Include="entity_interface.h">
+      <Filter>Header Files\entity</Filter>
+    </ClInclude>
+    <ClInclude Include="authentication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="simulation.h">
+      <Filter>Header Files\simulation</Filter>
+    </ClInclude>
+    <ClInclude Include="inference_engine.h">
+      <Filter>Header Files\inference_engine</Filter>
+    </ClInclude>
+    <ClInclude Include="state.h">
+      <Filter>Header Files\inference_engine</Filter>
+    </ClInclude>
+    <ClInclude Include="geom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="criteria.h">
+      <Filter>Header Files\evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="task_queue.h">
+      <Filter>Header Files\task_queue_worker</Filter>
+    </ClInclude>
+    <ClInclude Include="worker.h">
+      <Filter>Header Files\task_queue_worker</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>Header Files\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="timer_scheduler.h">
+      <Filter>Header Files\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="configuration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="entity_facade.h">
+      <Filter>Header Files\entity</Filter>
+    </ClInclude>
+    <ClInclude Include="entity_factory.h">
+      <Filter>Header Files\entity</Filter>
+    </ClInclude>
+    <ClInclude Include="msg_dispatcher.h">
+      <Filter>Header Files\entity</Filter>
+    </ClInclude>
+    <ClInclude Include="log.h">
+      <Filter>Header Files\log</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="question.h">
+      <Filter>Header Files\evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="operation.h">
+      <Filter>Header Files\evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="eval_manager.h">
+      <Filter>Header Files\evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="utility.h">
+      <Filter>Header Files\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="database_util.h">
+      <Filter>Header Files\load_content</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="xml_parser.h">
+      <Filter>Header Files\load_content</Filter>
+    </ClInclude>
+    <ClInclude Include="datafile_util.h">
+      <Filter>Header Files\load_content</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
